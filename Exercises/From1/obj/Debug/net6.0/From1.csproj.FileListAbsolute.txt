@@ -1,0 +1,15 @@
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiChapter14\Exercises\From1\bin\Debug\net6.0\From1.exe
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiChapter14\Exercises\From1\bin\Debug\net6.0\From1.deps.json
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiChapter14\Exercises\From1\bin\Debug\net6.0\From1.runtimeconfig.json
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiChapter14\Exercises\From1\bin\Debug\net6.0\From1.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiChapter14\Exercises\From1\bin\Debug\net6.0\From1.pdb
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiChapter14\Exercises\From1\obj\Debug\net6.0\From1.csproj.AssemblyReference.cache
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiChapter14\Exercises\From1\obj\Debug\net6.0\From1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiChapter14\Exercises\From1\obj\Debug\net6.0\From1.AssemblyInfoInputs.cache
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiChapter14\Exercises\From1\obj\Debug\net6.0\From1.AssemblyInfo.cs
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiChapter14\Exercises\From1\obj\Debug\net6.0\From1.csproj.CoreCompileInputs.cache
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiChapter14\Exercises\From1\obj\Debug\net6.0\From1.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiChapter14\Exercises\From1\obj\Debug\net6.0\refint\From1.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiChapter14\Exercises\From1\obj\Debug\net6.0\From1.pdb
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiChapter14\Exercises\From1\obj\Debug\net6.0\From1.genruntimeconfig.cache
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiChapter14\Exercises\From1\obj\Debug\net6.0\ref\From1.dll
